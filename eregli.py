@@ -1,5 +1,5 @@
-import yfinance as yf
 import streamlit as st
+import yfinance as yf
 
 st.write("""
 # Simple Stock Price App
